@@ -47,28 +47,10 @@ I am a passionate **MERN Stack Developer** with 3+ years of experience in buildi
 ## 📌 Featured Projects
 
 ### 🔹 Full Stack MERN Application
-- Authentication (JWT)
-- Role-based access
-- Admin dashboard
-- REST API integration  
-🔗 **Live Demo:** https://your-live-link.com  
-📂 **Repo:** https://github.com/username/project
-
----
-
-### 🔹 Admin Panel (React + Node)
-- User management
-- Payments & reports
-- Responsive UI  
-📂 **Repo:** https://github.com/username/project
-
----
-
-### 🔹 API Project
-- Secure REST APIs
-- Pagination & filtering
-- Error handling  
-📂 **Repo:** https://github.com/username/project
+ 
+🔗 **Live Demo:** https://whatsway.diploy.in
+🔗 **Live Demo:** https://agentlabs.diploy.in
+🔗 **Live Demo:** https://esimtel.app
 
 ---
 
@@ -82,8 +64,8 @@ I am a passionate **MERN Stack Developer** with 3+ years of experience in buildi
 ## 🌐 Portfolio & Links
 
 - 🌍 Portfolio: https://vinod-maurya.vercel.app/
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 📧 Email: your@email.com
+- 💼 LinkedIn: [https://linkedin.com/in/vinodmaurya1](https://www.linkedin.com/in/vinod-maurya-7ab821255/)
+- 📧 Email: vinodmaurya4561@gmail.com
 
 ---
 
