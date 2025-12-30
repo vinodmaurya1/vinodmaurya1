@@ -49,15 +49,19 @@ I am a passionate **MERN Stack Developer** with 3+ years of experience in buildi
 ### 🔹 Full Stack MERN Application
  
 🔗 **Live Demo:** https://whatsway.diploy.in
+---
 🔗 **Live Demo:** https://agentlabs.diploy.in
+
+---
+
 🔗 **Live Demo:** https://esimtel.app
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinodmaurya1&show_icons=true&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodmaurya1&layout=compact&theme=react)
 
 ---
 
