@@ -44,26 +44,32 @@ I am a passionate **MERN Stack Developer** with 3+ years of experience in buildi
 
 ---
 
+
 ## 📌 Featured Projects
 
-### 🔹 Full Stack MERN Application
- 
+### 🔹 Whatsway
+- WhatsApp Marketing & Automation SaaS Platform
+- Role-based access
+- Admin dashboard
+- REST API integration  
 🔗 **Live Demo:** https://whatsway.diploy.in
+
 ---
+
+### 🔹 Agentlabs
+- AI Voice Calling Agents
+- Payments & reports
+- Responsive UI  
 🔗 **Live Demo:** https://agentlabs.diploy.in
 
 ---
 
-🔗 **Live Demo:** https://esimtel.app
+### 🔹 Esimconnect
+- Esim buy
+- Add multiple provider 
+🔗 **Live Demo:** https://esimconnect.diploy.in
 
----
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinodmaurya1&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodmaurya1&layout=compact&theme=react)
-
----
 
 ## 🌐 Portfolio & Links
 
